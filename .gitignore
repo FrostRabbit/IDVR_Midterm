@@ -1,0 +1,8 @@
+.plastic/
+.vscode/
+.idea/
+Library/
+Logs/
+obj/
+UserSettings/
+*.unitypackage

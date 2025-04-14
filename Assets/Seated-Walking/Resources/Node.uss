@@ -1,0 +1,3 @@
+LocomotionNode #title {
+    background-color: rgba(52, 98, 63, 0.9);
+}

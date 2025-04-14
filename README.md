@@ -210,3 +210,6 @@ public void CallEMS_Grab()
 
 # EMS Tool Used
 This project uses the open-source EMS tool from Servo EMS for Unity by [BrianGodd](https://github.com/BrianGodd/Servo-EMS-for-Unity).
+
+# Demo Video
+[Click to watch](https://youtu.be/-D1EIMHxVFY)
